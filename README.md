@@ -47,40 +47,33 @@ Before this lesson(s), students should already be able to:
 ## Lesson Outline
 
 ### Outline: Part 1 (APIs)
-> TOTAL (30 min)
 
 - Introduction to APIs
 - What is an API?
 - Web APIs
 - Making API calls
 - HTTP
-- Independent practice: HTTP (10 min)
+- Independent practice: HTTP
 - HTTP Request
     - HTTP Request methods
     - HTTP Request structure
 - HTTP Response
     - Response types overview
 - JSON
-- Guided practice: pulling data from APIs (35 min)
-    - Example: Star Wars (15 min)
+- Guided practice: pulling data from APIs
+    - Example: Star Wars
 - Closing questions
 
 
 ### Outline: Part 2 (Web Scraping in Class)
-> TOTAL (170 min)
 
 - Introduction to Web Scraping
-- Building a web scraper (5 min)
-- Retrieving data from the HTML page (65 min)
-    - Retrieving the restaurant names (20 min)
-    - Challenge: Retrieving the restaurant locations (15 min)
-    - Retrieving the restaurant prices (10 min)
-    - Retrieving the restaurant number of bookings (20 min)
-- Introducting Selenium (90 min)
-    - Running JavaScript before scraping (15 min)
-    - Using regex to only get digits (20 min)
-    - Challenge: Use Pandas to create a DataFrame of bookings (40 min)
-    - Auto-typing using Selenium (15 min)
+- Building a web scraper
+- Retrieving data from the HTML page
+    - Retrieving the restaurant names
+    - Challenge: Retrieving the restaurant locations
+    - Retrieving the restaurant prices
+    - Retrieving the restaurant number of bookings
 - Summary
 
 ---
